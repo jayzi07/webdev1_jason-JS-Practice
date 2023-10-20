@@ -25,3 +25,5 @@ if(product % 3 == 0){
 }
 
 var confirmoutput = prompt('Trying out confirm: ');
+
+console.log('Jason Solomon');
